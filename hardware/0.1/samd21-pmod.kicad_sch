@@ -1906,6 +1906,11 @@
     (uuid 36758bbc-2aac-4f6e-8564-3822dcfb8883)
   )
 
+  (text "Dual PMOD" (at 317.5 81.28 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 0f995b52-4f56-4039-9adb-86a6a139437a)
+  )
+
   (label "USB_D-" (at 67.31 82.55 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 30f23744-0b95-41ec-a10e-3440f5e8072a)
